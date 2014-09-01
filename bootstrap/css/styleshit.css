@@ -1,0 +1,13 @@
+.carousel-inner {
+	text-align: center;
+}
+
+.carousel .item  p{
+	font-size: 30px;
+	color: red;
+}
+.carousel .item > img { 
+	display: inline-block;
+	height: 400px;
+	width: 1200px;
+}
